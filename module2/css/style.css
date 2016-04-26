@@ -3,12 +3,16 @@
 }
 
 .section {
+	position: absolute;
 	background-color: gray;
+	border: 1px solid black;
 	font: sans-serif;
+	margin-bottom: 10px;
 }
 
 .title {
 	float: left;
+	border: 1px solid black;
 	font-style: bold;
 	font-size: 16px;
 }
