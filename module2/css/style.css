@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.section {
+	background-color: gray;
+	font: sans-serif;
+}
+
+.title {
+	float: left;
+	font-style: bold;
+	font-size: 16px;
+}
+
+#title_1 {
+	background-color: red;
+}
+
+#title_2 {
+	background-color: red;
+}
+
+#title_3 {
+	background-color: red;
+}
