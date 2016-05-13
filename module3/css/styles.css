@@ -1,0 +1,49 @@
+body {
+	font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 2em;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+p.menu-item-info {
+    min-height: 1000px;
+    font-size: 1.2em;
+}
+
+.bg-info {
+	background-color: #F2DEDE;
+}
+.divider {
+    height: 1px;
+    width:100%;
+    display: block; /* for use on default inline elements like span */
+    margin: 9px 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+.menu-block {
+    margin-bottom: 20px;
+}
+
+.menu-collapse {
+    background-color: #eeeeee;
+}
+
+.navbar-brand {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+li.text-center {
+	font-weight: bold;
+}
+
+
