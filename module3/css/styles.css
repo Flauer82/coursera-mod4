@@ -12,6 +12,10 @@ h2 {
 	font-size: 1.5em;
 }
 
+.container {
+
+}
+
 p.menu-item-info {
     min-height: 1000px;
     font-size: 1.2em;
@@ -30,11 +34,11 @@ p.menu-item-info {
 }
 
 .menu-block {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
     margin-bottom: 20px;
-}
-
-.menu-collapse {
-    background-color: #eeeeee;
 }
 
 .navbar-brand {
